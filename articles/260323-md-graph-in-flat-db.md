@@ -6,6 +6,8 @@ topics: ["multidimensional", "graph", "tracing"]
 published: true
 ---
 
+コードは [github.com/maratishe/md-graph-in-flat-db](https://github.com/maratishe/md-graph-in-flat-db)にあります。
+
 # グラフ構造をフラットでDBに入れてそれをベースにトレーシング機能や多次元可視化などを可能にする
 
 **所要時間：** 読了 約20〜30分、ハンズオン実施 約1〜2時間  
