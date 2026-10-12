@@ -1,0 +1,21 @@
+[
+	...
+    {
+		"name": "claude-byok-sonnet-5.5",
+		"vendor": "customendpoint",
+		"apiKey": "${input:chat.lm.secret.5133c6c0}",
+		"apiType": "messages",
+		"models": [
+			{
+				"id": "",
+				"name": "Sonnet 5.5 (High+200k)",
+				"url": "",
+				"toolCalling": true,
+				"vision": true,
+				"maxInputTokens": 128000,
+				"maxOutputTokens": 16000
+			}
+		]
+	}
+    ...
+]
