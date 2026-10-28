@@ -3,7 +3,7 @@ title: "ファシリテーションでもPDCAでもない、複雑なことを�
 emoji: "🧩"
 type: "idea"
 topics: ["ファシリテーション", "チーム開発", "プロジェクト管理", "ToP", "マネジメント"]
-published: false
+published: true
 ---
 
 ## 「大丈夫そうですね」の一週間後
